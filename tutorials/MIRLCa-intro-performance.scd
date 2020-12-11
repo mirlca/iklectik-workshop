@@ -5,9 +5,16 @@
 // In this other diagram it is explained the creation of the model:
 // "MIRLCa-creating-a-model.jpg"
 
+// Before instantiating MIRLCa, it is recommended that you define what path you will be storing the generated files.
+// The slash at the end is very important.
+// Please note: the directory should exist!
+// Please note: the three files "model.JSON", "pca.JSON" and "standardizer.JSON" should exist inside this folder
+
+p = "/Users/anna/Desktop/MIRLCa/"
+
 // MIRLCa instantiation
 
-a = MIRLCa.new
+a = MIRLCa.new(path: p)
 
 // Target sound, pick one option / sound id that you like
 
