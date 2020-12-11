@@ -1,3 +1,4 @@
+// Tutorial adapted from the MIRLCa help and live demoed by Anna Xambó on 11 December 2020
 
 // Before instantiating MIRLCa, it is recommended that you define what path you will be storing the generated files.
 // The slash at the end is very important.

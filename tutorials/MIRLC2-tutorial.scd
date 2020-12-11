@@ -1,3 +1,6 @@
+
+// Tutorial adapted from the MIRLC2 help and live demoed by Sam Roig on 9 December 2020
+
 // MIRLC2
 //
 // This class is an incremental improvement over MIRLC.

@@ -26,3 +26,15 @@ An introduction to MIRLC: an easy live coding language to query sounds from Free
 - Tutorial MIRLCa Task 1 (Anna) - 10'
 - Creative exploration of the MIRLCa tool (breakout rooms) - 15'
 - Plenary and closing (all) - 15'
+
+
+# Day 3 - Friday 11th December 2020
+
+- Setting up (all) - 10'
+- Recap MIRLCa performance (Anna) - 10'
+- Tutorial MIRLCa training (Anna) - 15'
+- Creative exploration of the MIRLCa training tool: train your own agent (breakout rooms) - 20'
+- Plenary (all) - 10'
+- Comfort break - 10'
+- Invent your own problem for machine learning + live coding (breakout rooms) - 25'
+- Plenary and closing (all) - 20'
