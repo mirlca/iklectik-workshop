@@ -42,3 +42,4 @@ a.similar(2)
 // ....
 
 // As it currently stands, the similar function is constrained to have 10 candidates. You may find errors in the post window due to situations not matching the conditions... will fix them as soon as possible!
+
